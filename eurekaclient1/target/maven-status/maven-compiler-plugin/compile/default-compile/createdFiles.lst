@@ -1,0 +1,3 @@
+org\jiwei\EurekaclientApp.class
+org\jiwei\controller\HelloController.class
+org\jiwei\service\HelloService.class

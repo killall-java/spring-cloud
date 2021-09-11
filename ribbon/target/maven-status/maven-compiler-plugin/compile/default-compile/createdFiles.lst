@@ -1,0 +1,3 @@
+org\jiwei\ribbon\service\HelloService.class
+org\jiwei\ribbon\controller\HelloController.class
+org\jiwei\RibbonApp.class
