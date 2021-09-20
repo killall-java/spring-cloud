@@ -17,6 +17,6 @@ public class HelloService {
     }
 
     public String error(String name){
-        return "参数调用" + name + "失败了";
+        return "ribbon, 参数调用" + name + "失败了";
     }
 }

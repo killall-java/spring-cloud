@@ -7,6 +7,6 @@ import org.springframework.stereotype.Component;
 public class SchedualServiceHiHystric implements FeignService {
     @Override
     public String hi(String name) {
-        return "FeignService" + name + "失败";
+        return "Feign,FeignService" + name + "失败！！！！！！！！";
     }
 }

@@ -6,3 +6,9 @@ target/*
 .idea
 *.class
 .class
+feign/target/*
+eurekaclient/target/*
+eurekaclient1/target/*
+ribbon/target/*
+zuul/target/*
+test-springboot-eureka-server8761/target/*
