@@ -23,6 +23,7 @@
       <module>feign</module>
       <module>eurekaclient1</module>
       <module>zuul</module>
+      <module>Config-server</module>
       <!--    <module>eurekaclient</module>-->
   </modules>
 
